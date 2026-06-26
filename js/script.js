@@ -7,6 +7,6 @@ function mudar_text(){
 function mudar_cor(){
     window.document.getElementById("titulo-form").style.color="red";
 }
-function mudar_cor2(){
+function voltar(){
     window.document.getElementById("titulo-form").style.color="black"
 }
